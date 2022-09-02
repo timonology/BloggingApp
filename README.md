@@ -25,5 +25,9 @@ update-database -Context IdentityContext
 
 - ADD CONNECTION STRINGS FOR APPLICATION DB, IDENTITY DB AND SERILOG (OPTIONAL) on appsettings
 
+- For docker build, kindly run the below command or you can add a docker-compose file for more flexibility
+docker build -t AppName .
 
+# Pending Implementation
+- Auto Import of customer post from other blog platform
   
