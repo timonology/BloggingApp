@@ -1,0 +1,15 @@
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.deps.json
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.runtimeconfig.json
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.runtimeconfig.dev.json
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\bin\Debug\netcoreapp3.1\BloggingApp.Domain.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\bin\Debug\netcoreapp3.1\BloggingApp.Domain.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.AssemblyInfo.cs
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.csproj.CopyComplete
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Persistence\obj\Debug\netcoreapp3.1\BloggingApp.Persistence.genruntimeconfig.cache

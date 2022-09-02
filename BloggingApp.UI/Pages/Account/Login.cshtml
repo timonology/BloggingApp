@@ -1,0 +1,36 @@
+﻿@page
+@model BloggingApp.UI.Pages.Account.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+        </div>
+        <div class="col-5">
+            <div class="card">
+                <div id="errorMessage" asp-validation-summary="All" class="text-danger"></div>
+                <div class="card-body">
+                    <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                        <div class="form-group">
+                            <label asp-for="userLoginModel.Email"></label>
+                            <input id="Email" asp-for="userLoginModel.Email" class="form-control" />
+                            <span asp-validation-for="userLoginModel.Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="userLoginModel.Password"></label>
+                            <input id="Password" asp-for="userLoginModel.Password" class="form-control" />
+                            <span asp-validation-for="userLoginModel.Password" class="text-danger"></span>
+                        </div>
+                        <button type="submit" id="Submit" class="btn btn-primary">Log in</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <div class="col">
+        </div>
+    </div>
+</div>

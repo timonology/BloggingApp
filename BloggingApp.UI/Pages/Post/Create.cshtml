@@ -1,0 +1,44 @@
+﻿@page
+@model BloggingApp.UI.Pages.Post.CreateModel
+@{
+    <a href="/Post/">Back to List</a>
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+        </div>
+        <div class="col-5">
+            <div class="card">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="card-body">
+                    <form method="post">
+                        <div class="form-group">
+                            <label asp-for="createPostModel.Title"></label>
+                            <input asp-for="createPostModel.Title" class="form-control" />
+                            <span asp-validation-for="createPostModel.Title" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="createPostModel.Description"></label>
+                            <input asp-for="createPostModel.Description" class="form-control" />
+                            <span asp-validation-for="createPostModel.Description" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="createPostModel.Publication_date"></label>
+                            <input asp-for="createPostModel.Publication_date" class="form-control" />
+                            <span asp-validation-for="createPostModel.Publication_date" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Submit</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <div class="col">
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

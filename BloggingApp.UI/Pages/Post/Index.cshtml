@@ -1,0 +1,29 @@
+﻿@page
+@model BloggingApp.UI.Pages.Post.IndexModel
+@{
+    ViewData["Title"] = "My Post";
+}
+
+<h3 id="index_page">All Post</h3>
+
+<div>
+    <table class="table table-lg">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th><a asp-page="/Post/Index" asp-route-sortOrder="@Model.sortDate">Publication Date</a> </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.allPostQueries)
+                {
+                    <tr>
+                        <td>@item.Title</td>
+                        <td>@item.Description</td>
+                        <td>@item.Publication_date</td>
+                    </tr>
+                }
+        </tbody>
+    </table>
+</div>

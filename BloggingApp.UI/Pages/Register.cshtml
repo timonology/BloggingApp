@@ -1,0 +1,51 @@
+﻿@page
+@model BloggingApp.UI.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+        </div>
+        <div class="col-5">
+            <div class="card">
+                <div id="errorMessage" asp-validation-summary="All" class="text-danger">@Model.ErrorMessage</div>
+                <div class="card-body">
+                    <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                        <div class="form-group">
+                            <label asp-for="userRegisterModel.FullName"></label>
+                            <input id="FullName" asp-for="userRegisterModel.FullName" class="form-control" />
+                            <span asp-validation-for="userRegisterModel.FullName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="userRegisterModel.Email"></label>
+                            <input id="Email" asp-for="userRegisterModel.Email" class="form-control" />
+                            <span asp-validation-for="userRegisterModel.Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="userRegisterModel.Password"></label>
+                            <input id="Password" asp-for="userRegisterModel.Password" class="form-control" />
+                            <span asp-validation-for="userRegisterModel.Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="userRegisterModel.ConfirmPassword"></label>
+                            <input id="ConfirmPassword" asp-for="userRegisterModel.ConfirmPassword" class="form-control" />
+                            <span id="ConfirmPasswordMsg" asp-validation-for="userRegisterModel.ConfirmPassword" class="text-danger"></span>
+                        </div>
+                        <button type="submit" id="Submit" class="btn btn-primary">Register</button>
+                    </form>
+                </div>
+            </div>
+
+        </div>
+        <div class="col">
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

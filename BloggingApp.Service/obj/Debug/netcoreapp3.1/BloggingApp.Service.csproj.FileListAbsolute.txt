@@ -1,0 +1,14 @@
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\bin\Debug\netcoreapp3.1\BloggingApp.Service.deps.json
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\bin\Debug\netcoreapp3.1\BloggingApp.Service.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\bin\Debug\netcoreapp3.1\BloggingApp.Service.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\bin\Debug\netcoreapp3.1\BloggingApp.Domain.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\bin\Debug\netcoreapp3.1\BloggingApp.Domain.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\obj\Debug\netcoreapp3.1\BloggingApp.Service.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\obj\Debug\netcoreapp3.1\BloggingApp.Service.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\obj\Debug\netcoreapp3.1\BloggingApp.Service.AssemblyInfo.cs
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\obj\Debug\netcoreapp3.1\BloggingApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\obj\Debug\netcoreapp3.1\BloggingApp.Service.csproj.CopyComplete
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\obj\Debug\netcoreapp3.1\BloggingApp.Service.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Service\obj\Debug\netcoreapp3.1\BloggingApp.Service.pdb

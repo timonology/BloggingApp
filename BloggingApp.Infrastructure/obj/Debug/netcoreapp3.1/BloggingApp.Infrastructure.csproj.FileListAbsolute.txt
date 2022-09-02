@@ -1,0 +1,16 @@
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Infrastructure.deps.json
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Infrastructure.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Infrastructure.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Domain.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Service.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Service.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Domain.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\bin\Debug\netcoreapp3.1\BloggingApp.Persistence.pdb
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\obj\Debug\netcoreapp3.1\BloggingApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\obj\Debug\netcoreapp3.1\BloggingApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\obj\Debug\netcoreapp3.1\BloggingApp.Infrastructure.AssemblyInfo.cs
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\obj\Debug\netcoreapp3.1\BloggingApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\obj\Debug\netcoreapp3.1\BloggingApp.Infrastructure.csproj.CopyComplete
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\obj\Debug\netcoreapp3.1\BloggingApp.Infrastructure.dll
+C:\Users\User01\source\repos\BloggingApp\BloggingApp.Infrastructure\obj\Debug\netcoreapp3.1\BloggingApp.Infrastructure.pdb
