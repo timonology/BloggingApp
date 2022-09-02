@@ -18,8 +18,7 @@ Web App for Blogging Platform
 
 - ADD MIGRATION TO DATABASEE
 Add Migration for ApplicationDbContext and IdentityContext
-add-migration Initial -Context ApplicationDbContext
-update-database -Context ApplicationDbContext
+
 
 add-migration Initial -Context IdentityContext
 update-database -Context IdentityContext
